@@ -1,0 +1,6 @@
+name: ConfigAPI
+version: '1.0'
+main: lol.vifez.config.MainPlugin
+authors: [vifez]
+description: A Custom config API made by Vifez
+website: https://discord.gg/stkWZEKVd5
