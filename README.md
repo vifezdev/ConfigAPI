@@ -1,5 +1,5 @@
 # Vifez Config API
-This is a small base of how a Config API would work, It contains an example Config with an example of how registering configs would work in the main class, and obviously the code for the api
+A simple and easy to use Minecraft Configuration API
 
 # Features:
 - Config API
